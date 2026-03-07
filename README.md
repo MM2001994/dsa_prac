@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MM2001994/dsa_prac/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -52,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
