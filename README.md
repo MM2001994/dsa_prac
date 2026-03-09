@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MM2001994/dsa_prac/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/MM2001994/dsa_prac/tree/main/0283-move-zeroes/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/MM2001994/dsa_prac/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/MM2001994/dsa_prac/tree/main/0344-reverse-string/) | Easy |
 ## Hash Table
