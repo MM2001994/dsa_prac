@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/MM2001994/dsa_prac/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/MM2001994/dsa_prac/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/MM2001994/dsa_prac/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/MM2001994/dsa_prac/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MM2001994/dsa_prac/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/MM2001994/dsa_prac/tree/main/0283-move-zeroes/) | Easy |
@@ -86,5 +87,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/MM2001994/dsa_prac/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/MM2001994/dsa_prac/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
