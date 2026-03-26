@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/MM2001994/dsa_prac/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MM2001994/dsa_prac/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/MM2001994/dsa_prac/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
