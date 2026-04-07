@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/MM2001994/dsa_prac/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/MM2001994/dsa_prac/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/MM2001994/dsa_prac/tree/main/0706-design-hashmap/) | Easy |
+| [0867-transpose-matrix](https://github.com/MM2001994/dsa_prac/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MM2001994/dsa_prac/tree/main/1929-concatenation-of-array/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/MM2001994/dsa_prac/tree/main/0682-baseball-game/) | Easy |
+| [0867-transpose-matrix](https://github.com/MM2001994/dsa_prac/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MM2001994/dsa_prac/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/MM2001994/dsa_prac/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0867-transpose-matrix](https://github.com/MM2001994/dsa_prac/tree/main/0867-transpose-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
