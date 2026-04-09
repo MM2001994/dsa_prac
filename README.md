@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/MM2001994/dsa_prac/tree/main/0706-design-hashmap/) | Easy |
 ## Design
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
