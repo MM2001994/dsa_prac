@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MM2001994/dsa_prac/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/MM2001994/dsa_prac/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MM2001994/dsa_prac/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MM2001994/dsa_prac/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
