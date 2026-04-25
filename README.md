@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
+| [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/MM2001994/dsa_prac/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/MM2001994/dsa_prac/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/MM2001994/dsa_prac/tree/main/0706-design-hashmap/) | Easy |
 ## Design
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MM2001994/dsa_prac/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/MM2001994/dsa_prac/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0682-baseball-game](https://github.com/MM2001994/dsa_prac/tree/main/0682-baseball-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
