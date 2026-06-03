@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/MM2001994/dsa_prac/tree/main/0242-valid-anagram/) | Easy |
 | [0706-design-hashmap](https://github.com/MM2001994/dsa_prac/tree/main/0706-design-hashmap/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/MM2001994/dsa_prac/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MM2001994/dsa_prac/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/MM2001994/dsa_prac/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/MM2001994/dsa_prac/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/MM2001994/dsa_prac/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MM2001994/dsa_prac/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/MM2001994/dsa_prac/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
