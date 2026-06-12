@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/MM2001994/dsa_prac/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/MM2001994/dsa_prac/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/MM2001994/dsa_prac/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/MM2001994/dsa_prac/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
