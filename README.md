@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/MM2001994/dsa_prac/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MM2001994/dsa_prac/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MM2001994/dsa_prac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MM2001994/dsa_prac/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MM2001994/dsa_prac/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MM2001994/dsa_prac/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
 | [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MM2001994/dsa_prac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/MM2001994/dsa_prac/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/MM2001994/dsa_prac/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MM2001994/dsa_prac/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/MM2001994/dsa_prac/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MM2001994/dsa_prac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/MM2001994/dsa_prac/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/MM2001994/dsa_prac/tree/main/0704-binary-search/) | Easy |
