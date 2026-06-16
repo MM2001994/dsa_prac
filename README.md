@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MM2001994/dsa_prac/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/MM2001994/dsa_prac/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/MM2001994/dsa_prac/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
