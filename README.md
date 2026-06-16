@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MM2001994/dsa_prac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MM2001994/dsa_prac/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/MM2001994/dsa_prac/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/MM2001994/dsa_prac/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/MM2001994/dsa_prac/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MM2001994/dsa_prac/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/MM2001994/dsa_prac/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/MM2001994/dsa_prac/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/MM2001994/dsa_prac/tree/main/0242-valid-anagram/) | Easy |
@@ -216,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MM2001994/dsa_prac/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MM2001994/dsa_prac/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
