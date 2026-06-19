@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/MM2001994/dsa_prac/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/MM2001994/dsa_prac/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MM2001994/dsa_prac/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/MM2001994/dsa_prac/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/MM2001994/dsa_prac/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
