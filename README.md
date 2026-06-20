@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MM2001994/dsa_prac/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
 | [1929-concatenation-of-array](https://github.com/MM2001994/dsa_prac/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/MM2001994/dsa_prac/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
+| [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MM2001994/dsa_prac/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
