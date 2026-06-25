@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MM2001994/dsa_prac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/MM2001994/dsa_prac/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/MM2001994/dsa_prac/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/MM2001994/dsa_prac/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MM2001994/dsa_prac/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MM2001994/dsa_prac/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/MM2001994/dsa_prac/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/MM2001994/dsa_prac/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/MM2001994/dsa_prac/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MM2001994/dsa_prac/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MM2001994/dsa_prac/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/MM2001994/dsa_prac/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/MM2001994/dsa_prac/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MM2001994/dsa_prac/tree/main/0217-contains-duplicate/) | Easy |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/MM2001994/dsa_prac/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/MM2001994/dsa_prac/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MM2001994/dsa_prac/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/MM2001994/dsa_prac/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/MM2001994/dsa_prac/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/MM2001994/dsa_prac/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/MM2001994/dsa_prac/tree/main/0125-valid-palindrome/) | Easy |
