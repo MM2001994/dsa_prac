@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MM2001994/dsa_prac/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/MM2001994/dsa_prac/tree/main/1929-concatenation-of-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MM2001994/dsa_prac/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/MM2001994/dsa_prac/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/MM2001994/dsa_prac/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MM2001994/dsa_prac/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MM2001994/dsa_prac/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/MM2001994/dsa_prac/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MM2001994/dsa_prac/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MM2001994/dsa_prac/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
