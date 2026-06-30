@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/MM2001994/dsa_prac/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/MM2001994/dsa_prac/tree/main/0706-design-hashmap/) | Easy |
 | [0867-transpose-matrix](https://github.com/MM2001994/dsa_prac/tree/main/0867-transpose-matrix/) | Easy |
+| [0908-smallest-range-i](https://github.com/MM2001994/dsa_prac/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MM2001994/dsa_prac/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/MM2001994/dsa_prac/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MM2001994/dsa_prac/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0908-smallest-range-i](https://github.com/MM2001994/dsa_prac/tree/main/0908-smallest-range-i/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MM2001994/dsa_prac/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
 ## String
