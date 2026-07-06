@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/MM2001994/dsa_prac/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/MM2001994/dsa_prac/tree/main/0706-design-hashmap/) | Easy |
 | [0867-transpose-matrix](https://github.com/MM2001994/dsa_prac/tree/main/0867-transpose-matrix/) | Easy |
+| [0881-boats-to-save-people](https://github.com/MM2001994/dsa_prac/tree/main/0881-boats-to-save-people/) | Medium |
 | [0908-smallest-range-i](https://github.com/MM2001994/dsa_prac/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MM2001994/dsa_prac/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/MM2001994/dsa_prac/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/MM2001994/dsa_prac/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/MM2001994/dsa_prac/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/MM2001994/dsa_prac/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MM2001994/dsa_prac/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MM2001994/dsa_prac/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
+| [0881-boats-to-save-people](https://github.com/MM2001994/dsa_prac/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MM2001994/dsa_prac/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/MM2001994/dsa_prac/tree/main/1840-maximum-building-height/) | Hard |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MM2001994/dsa_prac/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MM2001994/dsa_prac/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/MM2001994/dsa_prac/tree/main/0881-boats-to-save-people/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MM2001994/dsa_prac/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MM2001994/dsa_prac/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MM2001994/dsa_prac/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
