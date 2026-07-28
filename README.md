@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/MM2001994/dsa_prac/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/MM2001994/dsa_prac/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/MM2001994/dsa_prac/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0231-power-of-two](https://github.com/MM2001994/dsa_prac/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MM2001994/dsa_prac/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0908-smallest-range-i](https://github.com/MM2001994/dsa_prac/tree/main/0908-smallest-range-i/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/MM2001994/dsa_prac/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/MM2001994/dsa_prac/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MM2001994/dsa_prac/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/MM2001994/dsa_prac/tree/main/0231-power-of-two/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MM2001994/dsa_prac/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/MM2001994/dsa_prac/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/MM2001994/dsa_prac/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/MM2001994/dsa_prac/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/MM2001994/dsa_prac/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/MM2001994/dsa_prac/tree/main/2351-first-letter-to-appear-twice/) | Easy |
