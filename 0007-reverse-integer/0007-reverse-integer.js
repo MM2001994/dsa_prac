@@ -7,7 +7,7 @@ var reverse = function(x) {
     const max = (2 ** 31 -1);
 
     let nums = Math.abs(x);
-    let rev =0;
+    let rev = 0;
 
     let sign = x < 0 ? -1 : 1;
 
