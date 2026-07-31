@@ -2,35 +2,28 @@
  * @param {string} s
  * @return {boolean}
  */
-var validPalindrome = function(s) {
-    if(s.length <= 2) return true;
-
-    let i = 0, j = s.length - 1;
-
-    while(i <= j){
-        if(s[i] == s[j]){
-            i++;
-            j--;
-        } else {
-            // Found mismatch - check both deletion options
-            const lCheck = checkPal(i + 1, j);  // Skip left character
-            const rCheck = checkPal(i, j - 1);  // Skip right character
-
-            return lCheck || rCheck;
-        } 
-    }
-
-    function checkPal(l, r){
-        while(l <= r){
-            if(s[l] == s[r]){
-                l++;
-                r--;
-            } else {
+var validPalindrome = function (s) {
+    let f = 0;
+    let l = s.length - 1;
+    const checkPalindrome = (str, left, right) => {
+        while (left < right) {
+            if (str[left] !== str[right]) {
                 return false;
             }
+            left++;
+            right--;
         }
         return true;
+    };
+
+    while (f < l) {
+        if (s[f] === s[l]) {
+            f++;
+            l--;
+        } else {
+           return checkPalindrome(s, f + 1, l) || checkPalindrome(s, f, l - 1);
+        }
     }
-    
+
     return true;
 };
