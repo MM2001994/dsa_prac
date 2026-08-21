@@ -1,7 +1,7 @@
 /**
- * @param {string} s
- * @return {number}
- */
+ 
+@param {string} s
+@return {number}*/
 var lengthOfLongestSubstring = function(s) {
     const chIndex = new Map();
     let l = 0; 
