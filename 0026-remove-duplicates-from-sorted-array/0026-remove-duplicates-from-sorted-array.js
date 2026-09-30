@@ -3,7 +3,13 @@
  * @return {number}
  */
 var removeDuplicates = function (nums) {
-    let uniqueNumbers = [...new Set(nums)];
-    nums.splice(0, nums.length, ...uniqueNumbers);
-    return nums.length;
+    if(nums.length === 0) return 0;
+   let i = 0;
+   for(let j = 0; j < nums.length; j++){
+    if(nums[i] !== nums[j]){
+        i++;
+        nums[i] = nums[j];
+    }
+   }
+   return i+1;
 };
