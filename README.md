@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MM2001994/dsa_prac/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/MM2001994/dsa_prac/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/MM2001994/dsa_prac/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/MM2001994/dsa_prac/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/MM2001994/dsa_prac/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/MM2001994/dsa_prac/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MM2001994/dsa_prac/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MM2001994/dsa_prac/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/MM2001994/dsa_prac/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/MM2001994/dsa_prac/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/MM2001994/dsa_prac/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MM2001994/dsa_prac/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MM2001994/dsa_prac/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
